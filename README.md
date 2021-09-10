@@ -1,2 +1,2 @@
 # Godot
-Video Games
+Video Games con propositos académicos
